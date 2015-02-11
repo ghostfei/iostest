@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         var num=1;
         var name="zhangsan\(num)"
-        println("asd = \(name)")
+        println("asd = \(name)");
     }
 
     override func didReceiveMemoryWarning() {
